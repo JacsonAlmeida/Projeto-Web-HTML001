@@ -3,4 +3,4 @@
 
  Criar uma Página Web utilizando as Tag aprendidas.
 
- Obs.: Fiz uma página do projeto, ainda quero acrescendar mais conteúdo referente as demais aulas, e com isso acrescentar mais páginas também.
+ Obs.: Fiz uma página do projeto, ainda quero acrescentar mais conteúdo referente as demais aulas, e com isso adicionar mais páginas também.
