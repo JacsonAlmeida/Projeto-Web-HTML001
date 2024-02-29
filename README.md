@@ -9,4 +9,6 @@ Utilizar todas as tags explicadas nas aulas: &lt;h1&gt; até &lt;h6&gt;, &lt;p&g
 
 Utilizar novas tags sugeridas: &lt;font&gt;, &lt;del&gt;, &lt;p&gt;, &lt;abbr&gt; (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto).
 
+Além disso, o professor sugeriu que no site fosse abordado o conteúdo estudado nas primeiras aulas do curso de HTML
+
  Obs.: Fiz uma página do projeto, ainda quero acrescentar mais conteúdo referente as demais aulas, e com isso adicionar mais páginas também.
